@@ -1,4 +1,8 @@
-# tos_keycloak
+# Configurer Keycloak et définir une audience
+
+Au cours du projet Digital Jukebox, vous devez effectuer la configuration de l'audience, c'est-à-dire spécifier le nom de votre application de manière à ce qu'il soit inclus dans le jeton jwt et puisse être vérifié lorsqu'une requête est faite à votre backend.
+
+# Configuration du Keycloak
 
 1. Créer un nouveau Realm
 ![1](https://github.com/NRichet/tos_keycloak/assets/87064243/b0a36e53-0c82-45c3-9f3f-b5348dd9f850)
