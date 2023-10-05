@@ -43,5 +43,10 @@ Au cours du projet Digital Jukebox, vous devez effectuer la configuration de l'a
 13. Aller dans l'onglet Client scopes puis cliquer sur Add client scope.
 ![13](https://github.com/NRichet/tos_keycloak/assets/87064243/bb1fa136-b001-4d13-9d3d-57abc158f7f2)
 
-14. Ajouter le scope audience avec comme paramètre Default.
+# Conclusion
+La génération d'un token ajoute l'audience souhaité dans le jwt.
+![15](https://github.com/NRichet/tos_keycloak/assets/87064243/9e4f874f-f32e-4bbd-9c01-fcc3dadd8460)
+
+
+15. Ajouter le scope audience avec comme paramètre Default.
 ![14](https://github.com/NRichet/tos_keycloak/assets/87064243/87eaffa9-0be1-42e4-adee-6dd9c4943fb8)
